@@ -1,0 +1,16 @@
+# Angular
+/frontend/node_modules/
+/frontend/dist/
+/frontend/.angular/
+/frontend/npm-debug.log
+
+# Java / Spring
+/backend/target/
+/backend/*.jar
+/backend/*.log
+
+# Geral
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
